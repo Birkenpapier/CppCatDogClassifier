@@ -88,5 +88,4 @@ This project is open-source and available under the [MIT License](LICENSE.md).
 
 ## Acknowledgements
 
-- OpenAI's ChatGPT for guidance.
 - The [Kaggle Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data) dataset for initial training data inspiration.
